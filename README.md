@@ -3,7 +3,7 @@
 ## Overview
 This project analyzes retail sales data using SQL to understand customer behavior, product performance, and sales trends.  
 The analysis was performed using PostgreSQL and includes data cleaning, exploratory analysis, and business-focused SQL queries.
-
+Analyzed 2000+ retail transaction records to extract meaningful business insights.
 ---
 
 ## Tools Used
